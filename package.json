@@ -1,6 +1,6 @@
 {
   "name": "@tp-ui/schematics",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "ThingsPro App UI schematics",
   "scripts": {
     "start": "tsc -p tsconfig.json --watch",
